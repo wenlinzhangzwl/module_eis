@@ -2,7 +2,17 @@
 
 
 
-Data and scripts used to generate figures in: 
+Impedance measurements from 4P1S battery modules, as well as the mechanical drawings used to produce the fixture.
+
+
+
+Please contact Wenlin Zhang (zhanw9@mcmaster.ca) if you have questions about the data or fixture. 
+
+
+
+
+
+If you use them in your work, please cite the following:
 
 
 
